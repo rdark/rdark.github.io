@@ -1,0 +1,16 @@
+# Site settings
+title: FOH<NET
+email: richard@fohnet.co.uk
+description: >
+  Personal site of Richard Clark
+baseurl: ""
+url: "http://www.fohnet.co.uk"
+github_username:  rdark
+exclude: 
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+# Build settings
+markdown: kramdown
+krmdown:
+  input: GFM

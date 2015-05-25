@@ -1,0 +1,25 @@
+# Default ignores for vim editor
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+# Default ignores for emacs editor
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# test harness
+spec/fixtures
+pkg/*
+vendor/bundle
+vendor/cache
+.bundle
+
+# jekyll excludes
+_site
+.sass-cache
