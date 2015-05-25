@@ -1,10 +1,10 @@
 # Site settings
-title: FOH<NET
+title: rdark
 email: richard@fohnet.co.uk
 description: >
   Personal site of Richard Clark
 baseurl: ""
-url: "http://www.fohnet.co.uk"
+url: "https://rdark.github.io"
 github_username:  rdark
 exclude: 
   - vendor
