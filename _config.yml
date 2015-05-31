@@ -14,7 +14,3 @@ exclude:
 markdown: kramdown
 krmdown:
   input: GFM
-analytics:
-  provider: google
-  google:
-    tracking_id: 'UA-63608112-1'
