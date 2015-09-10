@@ -10,7 +10,7 @@ permalink: /about/
   "occupation": [ "Sysadmin", "Developer" ],
   "location": "London",
   "contact": [
-    "email": "<firstname-at-fohnet.co.uk>"
+    "email": "<firstname-at-drkr.uk>"
   ]
 }
 {% endhighlight %}
